@@ -1,0 +1,15 @@
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\bin\Debug\net6.0\numberSwapping.exe
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\bin\Debug\net6.0\numberSwapping.deps.json
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\bin\Debug\net6.0\numberSwapping.runtimeconfig.json
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\bin\Debug\net6.0\numberSwapping.dll
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\bin\Debug\net6.0\numberSwapping.pdb
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.csproj.AssemblyReference.cache
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.AssemblyInfoInputs.cache
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.AssemblyInfo.cs
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.csproj.CoreCompileInputs.cache
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.dll
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\refint\numberSwapping.dll
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.pdb
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\numberSwapping.genruntimeconfig.cache
+C:\Users\arjunprasad.pm\source\repos\ConsoleApp4\obj\Debug\net6.0\ref\numberSwapping.dll

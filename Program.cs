@@ -11,5 +11,5 @@ secondNumber= temporry;
 
 Console.WriteLine("the swaped number is :");
 
-Console.WriteLine( "the firstnumber =" + firstNumber);
+Console.WriteLine( "the firstnumber :" + firstNumber);
 Console.WriteLine("the secondnumber :" + secondNumber);
